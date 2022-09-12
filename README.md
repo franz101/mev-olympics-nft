@@ -5,4 +5,7 @@ Learn in a playful way about various disciplines for MEV bots. Maximal extractab
 
 It is competitive by nature and therefore searchers try to optimize their strategies. To get familiar with some disciplines MEV Olympics provides a playground of various disciplines.
 
-[[/assets/demo_crop.png]]
+[https://mev.tools](https://mev.tools)
+
+![Screenshot](https://raw.githubusercontent.com/franz101/mev-olympics-nft/main/assets/demo_crop.png)
+
